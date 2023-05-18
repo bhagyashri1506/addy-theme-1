@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "4e327a705ea4da2420f3",
-    "url": "/addy-theme-1/static/css/main.d7d60173.chunk.css"
+    "revision": "c2d61b72a7ffb8ee06fb",
+    "url": "/addy-theme-1/static/css/main.9b6803bc.chunk.css"
   },
   {
-    "revision": "4e327a705ea4da2420f3",
-    "url": "/addy-theme-1/static/js/main.4e327a70.chunk.js"
+    "revision": "c2d61b72a7ffb8ee06fb",
+    "url": "/addy-theme-1/static/js/main.c2d61b72.chunk.js"
   },
   {
     "revision": "5bff56686b744a6e6287",
     "url": "/addy-theme-1/static/js/1.5bff5668.chunk.js"
   },
   {
-    "revision": "c48bcef1b005a156a1c7",
+    "revision": "bc7435c1713b7153ff9d",
     "url": "/addy-theme-1/static/css/2.64ff41d3.chunk.css"
   },
   {
-    "revision": "c48bcef1b005a156a1c7",
-    "url": "/addy-theme-1/static/js/2.c48bcef1.chunk.js"
+    "revision": "bc7435c1713b7153ff9d",
+    "url": "/addy-theme-1/static/js/2.bc7435c1.chunk.js"
   },
   {
     "revision": "dacee4cb8ad02e775c6c",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/addy-theme-1/static/media/ATM.4b0662c4.jpg"
   },
   {
-    "revision": "4a61bfce39c1f7636f4eb2fdbc6789ea",
+    "revision": "172cecf2e6a9c6584eea597f76768234",
     "url": "/addy-theme-1/index.html"
   }
 ];
