@@ -1520,8 +1520,8 @@
 }
 
 .t3 .page-title {
-  padding-top: calc((constant(safe-area-inset-top))*0.8) !important;
-  padding-top: calc((env(safe-area-inset-top))*0.8) !important;
+  /* padding-top: calc((constant(safe-area-inset-top))*0.8) !important;
+  padding-top: calc((env(safe-area-inset-top))*0.8) !important; */
   /*Page Titles*/
 }
 
@@ -1530,6 +1530,7 @@
   transition: all 300ms ease;
   margin-top: 23px;
   margin-bottom: 30px;
+  background-color: #0d1f33;
 }
 
 .t3 .page-title h1 {
@@ -4761,7 +4762,7 @@
 }
 .t3 .input-style input{
   font-size: 15px;
-  color: white;
+  color: black;
 }
 
 .t3 .input-style select,
